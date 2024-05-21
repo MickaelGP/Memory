@@ -25,4 +25,4 @@ You need a modern web browser to run this game. No additional libraries or frame
 3. **Open index.html in your browser:**
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE] file for more details.
